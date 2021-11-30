@@ -8,7 +8,7 @@
     },
     { 
         "name":"Web Development",
-        "img":"https://i.ibb.co/h7ybnyL/kisspng-web-development-web-design-logo-website-5abbea0aa79a15-1563172215222645866865-removebg-previ.png",
+        "img":"https://i.ibb.co/SVgjKWn/png-transparent-web-development-web-design-software-development-web-developer-web-design-blue-angle.png",
         "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate voluptate consequatur repellendus, rerum, adipisci quisquam voluptas quidem nesciunt beatae at quibusdam, ipsa libero iusto! Modi reprehenderit repellendus nesciunt blanditiis vel."
 
 
