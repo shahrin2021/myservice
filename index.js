@@ -19,5 +19,5 @@
         "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate voluptate consequatur repellendus, rerum, adipisci quisquam voluptas quidem nesciunt beatae at quibusdam, ipsa libero iusto! Modi reprehenderit repellendus nesciunt blanditiis vel."
 
 
-    },
+    }
 ]
